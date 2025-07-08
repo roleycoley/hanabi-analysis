@@ -1,4 +1,11 @@
 # HanabiAnalysis
+
+For my senior project, I independently developed a Python script that analyzed log files from 'Hanabi' games played between a human and three different AI types. While my professor provided the overall direction for the project, I wrote the code myself with minimal assistance. My script visualized behavioral differences between the AI types using bar graphs generated with Python’s matplotlib library. You can see the results of my analysis here:
+
+📄 [Read the AI Behavior Analysis Report](./hanabi-analysis-results.pdf)
+
+Directions for running my project:
+
 1. Have hanabi game logs in a directory called "logs"
 
 2. Have HanabiAnalysis.py and DeckRandomizer.py in the same directory "logs" is located
@@ -11,4 +18,4 @@
 
 6. Pick which difficulty you would like to observe, beg or exp
 
-📄 [Read the AI Behavior Analysis Report](./hanabi-analysis-results.pdf)
+
